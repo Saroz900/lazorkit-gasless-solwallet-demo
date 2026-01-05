@@ -4,14 +4,14 @@ A high-quality integration example of the **Lazorkit SDK** on Solana. This repos
 
 ### 🔗 Quick Links
 - **Live Demo:** https://lazorkit-gasless-solwallet-demo.vercel.app/
-- **Demo Video:** [ https://lazorkit-gasless-solwallet-demo.vercel.app/ ]
+- **Demo Video:** [APNA YOUTUBE LINK YAHAN DALO]
 
 ---
 
 ## 🛠️ Developer Quick Start
 
 ### 1. Installation
-To integrate Lazorkit into your project, install the core SDK:
+To integrate Lazorkit into your project:
 ```bash
 npm install @lazorkit/sdk
 

@@ -6,7 +6,7 @@
 
 ### 🔗 **QUICK LINKS**
 - 🌐 **LIVE DEMO:** **[CLICK HERE](https://lazorkit-gasless-solwallet-demo.vercel.app/)**
-- 🎥 **VIDEO DEMO:** **[YOUTUBE_LINK_HERE]**
+- 🎥 **VIDEO DEMO:** **[PASTE_YOUR_YOUTUBE_LINK_HERE]**
 
 ---
 
@@ -38,4 +38,5 @@
 
 ---
 
+**🏆 SUBMITTED FOR THE LAZORKIT BOUNTY CHALLENGE (2025-2026)**
 
